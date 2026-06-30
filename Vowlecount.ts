@@ -1,5 +1,5 @@
 
-let str: string = "Archana Mohini";
+let str =  "Archana Mohini";
 
 let vowels = 0;
 let consonants = 0;
